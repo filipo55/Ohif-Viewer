@@ -142,7 +142,7 @@
     "rollup-plugin-peer-deps-external": "^2.2.0",
     "rollup-plugin-postcss": "^2.0.3",
     "rollup-plugin-url": "^2.1.0",
-    "semantic-release": "15.13.x",
+    "semantic-release": "17.2.x",
     "stylelint": "^9.9.0",
     "stylelint-config-recommended": "^2.1.0",
     "stylus": "^0.54.5"
